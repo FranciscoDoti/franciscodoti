@@ -1,0 +1,50 @@
+[{"bulkId":"a67d5685-b171-42a0-a717-5b47ac893a70","filename":"ROLBULK_OK.xlsx","headoffice":{
+  "id": "4639",
+  "name": "COOP DE PRODUT DE GRAOS",
+  "address": {
+    "street": "R QUINZE DE NOVEMBRO 2363  LJ 2363",
+    "zipCode": "85301050",
+    "addInfo": null,
+    "addressNumber": null,
+    "county": null,
+    "country": null,
+    "email": null,
+    "phoneNumber": null,
+    "faxNumber": null,
+    "city": {
+      "cityId": null,
+      "cityDesc": "LARANJEIRAS DO SUL",
+      "cityIbgeCode": "4113304",
+      "regionDesc": null
+    },
+    "district": {
+      "id": 102239,
+      "desc": "GUARAPUAVA-SOJA",
+      "sapId": "0003569896"
+    },
+    "region": {
+      "id": 31518,
+      "desc": "PARANA SOJA",
+      "sapId": "BPRS"
+    },
+    "unit": null,
+    "state": {
+      "code": "PR",
+      "description": "PARANA"
+    }
+  },
+  "document": {
+    "documentNumber": "03430032000115",
+    "documentType": "CNPJ"
+  },
+  "partnerSAPCode": "0001833291",
+  "partnerActive": false,
+  "cooperative": false,
+  "collaborator": false,
+  "preCertificate": false,
+  "partnerType": "POD",
+  "contracts": [],
+  "matrix": [],
+  "agreements": [],
+  "groundbreaker": false
+},"lines":"|{¨rol¨{¨period¨¨09/2018¨¨affiliateDocumentNumber¨¨03430032000115¨¨technology¨¨INTACTA¨¨receivedDeclaredVolume¨¨99¨¨receivedPositiveTestedVolume¨´0´¨receivedNegativeTestedVolume¨´0´¨fixedVolume¨¨40¨¨fixedPrice¨¨500¨}¨bulk_id¨¨a67d5685-b171-42a0-a717-5b47ac893a70¨}÷"}]
